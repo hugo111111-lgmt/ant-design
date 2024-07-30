@@ -26,7 +26,7 @@ const items: MenuItem[] = [
   },
   {
     key: 'sub1',
-    label: 'Navigation Two',
+    label: '你好',
     icon: <AppstoreOutlined />,
     children: [
       { key: '3', label: 'Option 3' },
