@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["VBWzS6X5"],{VBWzS6X5:function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return o;}}),n("cv56ec04");let o={};}}]);
+//# sourceMappingURL=VBWzS6X5-async.ef034841.js.map

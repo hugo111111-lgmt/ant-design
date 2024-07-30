@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["mlgPsiBr"],{mlgPsiBr:function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return s;}}),n("u6fU5iV5");let s={};}}]);
+//# sourceMappingURL=mlgPsiBr-async.7b330b6b.js.map

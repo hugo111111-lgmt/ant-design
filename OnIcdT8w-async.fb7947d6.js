@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["OnIcdT8w"],{OnIcdT8w:function(e,n,l){"use strict";l.d(n,"__esModule",{value:!0}),l.d(n,"demos",{enumerable:!0,get:function(){return o;}}),l("XoWkqDto");let o={};}}]);
+//# sourceMappingURL=OnIcdT8w-async.fb7947d6.js.map

@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["PaXp-bCh"],{"PaXp-bCh":function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return a;}}),n("nQCgFlKg");let a={};}}]);
+//# sourceMappingURL=PaXp-bCh-async.751ab3f4.js.map

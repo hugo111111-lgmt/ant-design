@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["GFnyxC0L"],{GFnyxC0L:function(e,n,l){"use strict";l.d(n,"__esModule",{value:!0}),l.d(n,"demos",{enumerable:!0,get:function(){return o;}}),l("YRsp_5Py");let o={};}}]);
+//# sourceMappingURL=GFnyxC0L-async.51bb027b.js.map

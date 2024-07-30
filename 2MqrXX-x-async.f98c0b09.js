@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["2MqrXX-x"],{"2MqrXX-x":function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return o;}}),n("gPBjqLVJ");let o={};}}]);
+//# sourceMappingURL=2MqrXX-x-async.f98c0b09.js.map
