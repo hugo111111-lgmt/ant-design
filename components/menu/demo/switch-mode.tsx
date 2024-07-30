@@ -17,7 +17,7 @@ const items: MenuItem[] = [
   {
     key: '1',
     icon: <MailOutlined />,
-    label: 'Navigation One',
+    label: '111111111111111111111',
   },
   {
     key: '2',
